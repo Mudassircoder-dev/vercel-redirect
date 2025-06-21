@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/fb",
-      "destination": "https://savourinmeal.com",
-      "permanent": false
-    }
-  ]
-}
